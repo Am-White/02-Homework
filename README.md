@@ -12,7 +12,7 @@ Re-formating an already finished webpage in order to achieve accessibility stand
 * Added <alt> attributes to all images
 * Made sure all titles were appropriate for the content
 
-![Screenshot-HTML](Desktop/02-homework/Develop/assets/images/HTML.png)
+![alt text](https://github.com/Am-White/02-Homework/blob/master/Develop/assets/images/HTML.png)
 
 
 
