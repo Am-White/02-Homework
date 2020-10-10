@@ -2,6 +2,9 @@
 
 ## GOAL <h2>
 Re-formating an already finished webpage in order to achieve accessibility standards, and organize the semantics within the code in order to be better understood.
+  
+## ABOUT ME <h2>
+My name is Amethyst White, I am a young woman from Seattle, WA. I am new to computer coding and I am trying to make a career change to better my future. I love art, food and whiskey. Constructive criticism welcome.
 
 ## CHANGES MADE <h2>
 
@@ -22,4 +25,4 @@ Re-formating an already finished webpage in order to achieve accessibility stand
 * Added a @media affect in order to better set up the sections when the webpage size shrinks (The benefits information on the right hand side flows to the bottom of the page and aligns in a row)
 * Made sure words and images within the content didn't spill over when window size changed (<flex>)
   
-  ![Screenshot-CSS](Desktop/02-homework/Develop/assets/images/CSS.png)
+  ![alt text](https://github.com/Am-White/02-Homework/blob/master/Develop/assets/images/CSS.png)
