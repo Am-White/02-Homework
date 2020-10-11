@@ -15,7 +15,7 @@ My name is Amethyst White, I am a young woman from Seattle, WA. I am new to comp
 * Added <alt> attributes to all images
 * Made sure all titles were appropriate for the content
 
-![alt text](https://github.com/Am-White/02-Homework/blob/master/Develop/assets/images/HTML.png)
+![alt text](https://github.com/Am-White/02-Homework/blob/master/Assets/images/HTML.png)
 
 
 
@@ -25,4 +25,4 @@ My name is Amethyst White, I am a young woman from Seattle, WA. I am new to comp
 * Added a @media affect in order to better set up the sections when the webpage size shrinks (The benefits information on the right hand side flows to the bottom of the page and aligns in a row)
 * Made sure words and images within the content didn't spill over when window size changed (<flex>)
   
-  ![alt text](https://github.com/Am-White/02-Homework/blob/master/Develop/assets/images/CSS.png)
+  ![alt text](https://github.com/Am-White/02-Homework/blob/master/Assets/images/CSS.png)
